@@ -14,7 +14,7 @@ target="_blank"></a>
  
 </div>
 
-![Snake animation](https://github.com/trechosgame/trechosgame/blob/output/github-contribution-grid-snake.svg)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trechosgame&langs_count=8)](https://github.com/trechosgame/github-readme-stats)
 
