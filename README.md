@@ -1,4 +1,4 @@
-- ... Nada começa do zero..
+- Nada começa do zero, por isto é importante organização.
 - 🌱 Auxiliar Administratriva..
 - 🌱 Bacharel em Sistemas de Informação..
 - 🌱 e Design Gráfico...
