@@ -1,3 +1,4 @@
+- ... Nada começa do zero..
 - 🌱 Auxiliar Administratriva..
 - 🌱 Bacharel em Sistemas de Informação..
 - 🌱 e Design Gráfico...
