@@ -1,4 +1,4 @@
-- 🌱 Nada começa do zero, por isto desenvolva organização.
+- 🌱 Nada começa do zero, por isto, desenvolva organização.
 - 🌱 Auxiliar Administratriva..
 - 🌱 Bacharel em Sistemas de Informação..
 - 🌱 e Design Gráfico...
